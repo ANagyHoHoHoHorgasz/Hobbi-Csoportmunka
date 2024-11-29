@@ -1,0 +1,61 @@
+
+body {
+    background-color: black;
+  }
+  h1 {
+      color:white;
+      text-shadow: 2px 2px 5px black;
+      
+
+  }
+  p {
+      color:white;
+      text-shadow: 2px 2px 5px black;
+
+  }
+  h2 {
+      color:white;
+      text-shadow: 2px 2px 5px black;
+
+  }
+  h3 {
+      color:white;
+      text-shadow: 2px 2px 5px black;
+
+  }
+  ul {
+      color:white;
+      text-shadow: 2px 2px 5px black;
+  }
+  img {
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      padding: 5px;
+       width: 500px;
+      }
+
+
+
+.main {
+    background-image: url('kepek/bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    }
+.main2 {
+    background-image: url('kepek/eminem.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.bal{
+    padding-left: 30rem;
+    width: 500px;
+    height: 230px;
+    float: right;
+    object-fit: cover;
+    border-radius: 25%;
+    }
+.szoveg {
+    color: white;
+    }
